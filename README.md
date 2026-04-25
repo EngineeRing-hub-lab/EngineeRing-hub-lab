@@ -13,6 +13,7 @@ I'm TA BINH I'm currently studying Computer Science in PTIT and I love programmi
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 My Repo
-- 🐾 [**Classification_Animals**](https://github.com/EngineeRing-hub-lab/Classification_Animals) - Dự án nhận diện và phân loại động vật sử dụng Deep Learning (PyTorch, CNN).
+- ⚽ [**Footbal_Dection**](https://github.com/Engineering-hub-lab/Footbal_Dection) - Dự án nhận diện và theo dõi cầu thủ, quả bóng trong trận đấu sử dụng Deep Learning (YOLOv5, PyTorch).
+- 🐾 [**Classification_Animals**](https://github.com/EngineeRing-hub-lab/Classification_Animals) - Dự án nhận diện và phân loại động vật sử dụng Deep Learning (PyTorch, Fast-RCNN).
 ---
 [![](https://komarev.com/ghpvc/?username=TABINH&icon=0&color=0)](https://visitcount.itsvg.in)
